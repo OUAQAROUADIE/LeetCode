@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
