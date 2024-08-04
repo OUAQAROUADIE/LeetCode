@@ -35,6 +35,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -75,4 +76,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
