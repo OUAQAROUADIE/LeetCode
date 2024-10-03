@@ -16,12 +16,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
