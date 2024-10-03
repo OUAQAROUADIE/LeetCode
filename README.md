@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
