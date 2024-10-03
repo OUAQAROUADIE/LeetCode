@@ -15,11 +15,13 @@
 | [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
 |  |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,6 +132,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Bit Manipulation
 |  |
