@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
 |  |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
