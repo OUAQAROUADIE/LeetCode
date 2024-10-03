@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
