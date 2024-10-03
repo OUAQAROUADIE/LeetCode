@@ -93,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 <!---LeetCode Topics End-->
