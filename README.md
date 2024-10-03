@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0066-plus-one) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+## Counting
+|  |
+| ------- |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 <!---LeetCode Topics End-->
