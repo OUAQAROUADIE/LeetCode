@@ -72,6 +72,7 @@
 | [0110-balanced-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0110-balanced-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
