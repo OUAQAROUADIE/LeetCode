@@ -15,17 +15,17 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root == null){
-            return false;
-        }
+      if( root == null ){
+        return false;
+      }
 
-        if(root.left == null && root.right == null){
-            return targetSum == root.val;
-        }
+      if(root.left == null && root.right == null){
+        return targetSum == root.val;
+      }
 
-        int newtargetSum = targetSum - root.val;
-
-        return hasPathSum(root.left, newtargetSum) || hasPathSum(root.right, newtargetSum );
+      int newtarget = targetSum - root.val;
+      return hasPathSum(root.left, newtarget) || hasPathSum(root.right, newtarget);
 
     }
+
 }
