@@ -64,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## String Matching
