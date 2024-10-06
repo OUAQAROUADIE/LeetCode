@@ -66,6 +66,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -161,4 +162,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
