@@ -90,6 +90,7 @@
 | [0110-balanced-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0207-course-schedule) |
 ## String
 |  |
 | ------- |
@@ -172,4 +174,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
