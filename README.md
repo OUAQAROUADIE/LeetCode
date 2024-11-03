@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
@@ -69,6 +70,7 @@
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
@@ -128,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## String Matching
 |  |
