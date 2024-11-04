@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0290-word-pattern) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## String Matching
 |  |
