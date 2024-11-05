@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OUAQAROUADIE/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0290-word-pattern) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OUAQAROUADIE/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
@@ -175,10 +177,12 @@
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OUAQAROUADIE/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OUAQAROUADIE/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
