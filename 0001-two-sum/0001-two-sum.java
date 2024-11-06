@@ -4,9 +4,9 @@ class Solution {
       for(int i = 0 ; i < nums.length ; i++ ){
         int  r = target - nums[i];
         if(map.containsKey(r))
-    return new int[]{map.get(r), i};
+        return new int[]{map.get(r), i};
 
-        map.put(nums[i],i);
+        map.put(nums[i],i);   
       }
      return null; 
     }
