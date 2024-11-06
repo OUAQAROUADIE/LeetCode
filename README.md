@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OUAQAROUADIE/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Linked List
 |  |
@@ -86,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Bit Manipulation
 |  |
@@ -203,6 +207,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
