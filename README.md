@@ -60,6 +60,7 @@
 | [0002-add-two-numbers](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0202-happy-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
