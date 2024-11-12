@@ -1,22 +1,45 @@
 class Solution {
     public double myPow(double x, int n) { 
-        if( n < 0){
-            return 1/pow(x , n);
-        }  
-        return pow(x,n);  
-    }
-    public double pow(double x, int n){
-        if( n == 0){
-            return 1;
+        if(n < 0){
+            x=1/x;
         }
-        double r = pow(x, n/2);
-        if(n % 2 == 0){
-            return r*r;
+        return pow(x,n);
+    }
+    public double pow(double x , int n){
+        if(n == 0){return 1;}
+
+        double t =pow(x,n/2);
+
+        if(n  % 2 == 0 ){
+            return t*t;
         }else{
-            return x*r*r;
+            return t*t*x;
         }
     }
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         /*double r =1 ;
         int m = Math.abs(n);
