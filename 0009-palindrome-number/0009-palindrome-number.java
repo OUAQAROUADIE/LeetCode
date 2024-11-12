@@ -1,9 +1,8 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String n = Integer.toString(x);
-        String r = new StringBuilder(n).reverse().toString();
-
-        return n.equals(r);
+        String s =Integer.toString(x);
+        String  sb = new StringBuilder(s).reverse().toString();
+        return s.equals(sb);
 
        /* String n = Integer.toString(x);
        String r="";
