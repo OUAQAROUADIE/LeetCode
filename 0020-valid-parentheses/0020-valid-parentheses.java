@@ -6,15 +6,16 @@ class Solution {
       map.put(']', '[');
       map.put('}', '{');
 
-      for(char c : s.toCharArray()){
+      for (char c : s.toCharArray()) {
         if(map.containsKey(c)){
-            if(pile.isEmpty() || pile.pop() != map.get(c)){
+            if(pile.isEmpty() ||pile.pop() != map.get(c)){
                 return false;
             }
 
         }else{
         pile.push(c);
       }}
-       return pile.isEmpty();
+      return pile.isEmpty();
+     
     }
 }
