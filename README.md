@@ -65,6 +65,7 @@
 | [0050-powx-n](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0202-happy-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/OUAQAROUADIE/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Recursion
@@ -189,6 +190,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OUAQAROUADIE/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
