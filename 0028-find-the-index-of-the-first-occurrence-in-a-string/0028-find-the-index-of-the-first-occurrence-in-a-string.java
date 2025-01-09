@@ -1,7 +1,7 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if(haystack.length() == 0){return -1;}
+       if(haystack.length() == 0){return 0;}
 
-        return haystack.indexOf(needle);
+       return haystack.indexOf(needle);
     }
 }
